@@ -1,8 +1,6 @@
 Bienvenido!
 
+Hola, me llamo Gustavo Lima, soy Técnico Superior en Desarrollo Web y actualmente me desempeño como técnico de soporte IT.
+He trabajado tanto integrando equipos como en roles de liderazgo y capacitación de técnicos junior.
 
-Hola, soy Gustavo Lima, actualmente, me desempeño como técnico de soporte IT.
-Soy técnico superior en Desarrollo Web.
-He trabajado integrando equipos,como en roles de liderazgo.
-
-Estoy entusiasmado por seguir creciendo y capacitándome. Busco nuevas oportunidades laborales que me permitan desarrollar mis habilidades y contribuir al éxito de proyectos desafiantes e innovadores.
+Estoy entusiasmado por seguir creciendo profesionalmente, continuar capacitándome y abierto a nuevos desafíos que me permitan seguir desarrollándome.
